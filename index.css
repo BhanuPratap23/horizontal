@@ -14,12 +14,12 @@ ul{
   list-style-type:none;
 }
 li{
-  display;inline;
+  display:inline;
 }
 a{
   color:#666;
   text-decoration:none;
-  float:left:
+  float:left;
 }
 a:hover{
    color:#000;
